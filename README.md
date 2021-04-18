@@ -3,4 +3,4 @@
 Working through https://quii.gitbook.io/learn-go-with-tests
 
 
-Now at: https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration
+Now at: https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces
